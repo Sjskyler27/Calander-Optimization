@@ -1,0 +1,34 @@
+
+USER/FILE: OriginalCalander
+ -clocked at:  1560.22ms
+ -diff: vvv
+
+ -diff: ^^^
+
+USER/FILE: SkylerCalandertry2
+ -clocked at:  312.35ms
+ -diff: vvv
+
+ -diff: ^^^
+
+
+USER/FILE: SkylerCalandertry3
+ -clocked at:  284.63ms
+ -diff: vvv
+
+ -diff: ^^^
+
+
+USER/FILE: SkylerCalandertry4
+ -clocked at:  203.61ms
+ -diff: vvv
+
+ -diff: ^^^
+
+
+USER/FILE: SkylerCalandertry5
+ -clocked at:  122.53ms
+ -diff: vvv
+
+ -diff: ^^^
+
